@@ -11,11 +11,10 @@ Esse desafio tem como objetivo de melhorar o <a src="https://github.com/isabelad
   <a href="#memo-licença">Licença</a>
 </p>
 
-<p align="center">v1?label=license&message=MIT&color=49AA26&labelColor=000000">
+<p align="center">
+  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
 </p>
 
-  <img alt="License" src="https://img.shields.io/static/
-<br>
 
 <p align="center">
   <img src="./assets/img-readme.JPG" width="100%">
