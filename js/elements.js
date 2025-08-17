@@ -11,10 +11,10 @@ const cafeteria = document.querySelector('.cafeteria')
 const fire = document.querySelector('.fire')
 
 // Audios
-const btnForest = new Audio('/audio/Floresta.mp3') 
-const btnRain = new Audio('/audio/Chuva.mp3') 
-const btnCafeteria = new Audio('/audio/Cafeteria.mp3') 
-const btnFire = new Audio('/audio/Lareira.mp3') 
+const btnForest = new Audio('audio/Floresta.mp3') 
+const btnRain = new Audio('audio/Chuva.mp3') 
+const btnCafeteria = new Audio('audio/Cafeteria.mp3') 
+const btnFire = new Audio('audio/Lareira.mp3') 
 
 const volume = document.getElementById('volume')
 
