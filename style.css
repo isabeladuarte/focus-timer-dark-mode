@@ -38,7 +38,7 @@ body {
 nav {
     display: flex;
     justify-content: end;
-    padding: 6.0rem 6.0rem 0 0;
+    margin: 20px;
 }
 
 nav svg {
@@ -135,4 +135,14 @@ button {
     background: var(--fc-timer);
     cursor: pointer; 
     border-radius: 100%;
+}
+
+@media (max-width: 768px) {
+    main {
+        grid-template-columns: 1fr; 
+    }
+
+    #controls {
+        justify-content: center;
+    }
 }
