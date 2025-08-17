@@ -11,10 +11,10 @@ const cafeteria = document.querySelector('.cafeteria')
 const fire = document.querySelector('.fire')
 
 // Audios
-const btnForest = new Audio('https://github.com/isabeladuarte/challenge-explorer-focus-timer-version2/blob/master/audio/Floresta.mp3?raw=true') 
-const btnRain = new Audio('https://github.com/isabeladuarte/challenge-explorer-focus-timer-version2/blob/master/audio/Chuva.mp3?raw=true') 
-const btnCafeteria = new Audio('https://github.com/isabeladuarte/challenge-explorer-focus-timer-version2/blob/master/audio/Cafeteria.mp3?raw=true') 
-const btnFire = new Audio('https://github.com/isabeladuarte/challenge-explorer-focus-timer-version2/blob/master/audio/Lareira.mp3?raw=true') 
+const btnForest = new Audio('/audio/Floresta.mp3') 
+const btnRain = new Audio('/audio/Chuva.mp3') 
+const btnCafeteria = new Audio('/audio/Cafeteria.mp3') 
+const btnFire = new Audio('/audio/Lareira.mp3') 
 
 const volume = document.getElementById('volume')
 
